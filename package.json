@@ -74,7 +74,7 @@
     "karma-coverage-istanbul-reporter": "1.2.1",
     "karma-jasmine": "1.1.0",
     "karma-jasmine-html-reporter": "0.2.2",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "path": "^0.12.7",
     "prettier": "^1.15.3",
     "random": "^2.2.0",
